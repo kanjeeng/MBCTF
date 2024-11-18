@@ -8,8 +8,8 @@ export default function cs() {
         
       </div>
       <section id="profile" className="pt-12">
-  <h1 className="text-center text-5xl font-normal my-24"> FLAG</h1>
-  <div id="hidden-flag" data-flag="MBC2024{emm_cari_yang_Lain_Lagi_Coba}"></div>
+  <h1 className="text-center text-5xl font-normal my-24"></h1>
+  <div id="hidden-flag" data-flag="MBC2024{Alah_ketauan_lagi_kann}"></div>
 </section>
     </main>
   );
